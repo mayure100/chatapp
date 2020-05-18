@@ -1,0 +1,16 @@
+.activeContainer{
+    display: flex;
+    display: inline-block;
+    width: 30%;
+    height: 30%;
+    margin-left: 80px;
+    border-color: greenyellow;
+    border-radius: 20px;
+}
+.users{
+    color: greenyellow;
+    font-family: cursive;
+}
+.head{
+    color: honeydew;
+}
